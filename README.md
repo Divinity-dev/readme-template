@@ -35,10 +35,10 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+- [📖 About the Project](This is a simple portfolio project)
+  - [🛠 Built With](html and css)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+    - [Key Features](A profile page)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -47,23 +47,23 @@ After you're finished please remove all the comments and instructions!
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+- [👥 Authors](Divine Asiriuwa)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
+- [🙏 Acknowledgements](I would like to acknowledge Mr Nathaniel for his help)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Portfolio] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
 **[your_project__name]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with"> html and css</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -92,7 +92,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features <a name="key-features"> A Personal profile and skills</a>
 
 > Describe between 1-3 key features of the application.
 
@@ -114,7 +114,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started <a name="getting-started">This project can be used as a whole or in part as a profile page</a>
 
 > Describe how a new developer could make use of your project.
 
